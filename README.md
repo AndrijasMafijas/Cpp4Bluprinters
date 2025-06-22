@@ -27,8 +27,7 @@ The main idea is to create a simple AI enemy that can see the player and chase t
 
 ## Useful links
 
-- [C++ for Blueprinters - Epic Games tutorial](https://dev.epicgames.com/community/learning/tutorials/qO/c-for-blueprinters)  
-- [Unreal Engine NavMesh Documentation](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Navigation/)
+- [C++ for Blueprinters - Epic Games tutorial](https://dev.epicgames.com/community/learning/tutorials/qO/c-for-blueprinters)
 
 ---
 

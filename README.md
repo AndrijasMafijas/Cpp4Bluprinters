@@ -25,21 +25,10 @@ The main idea is to create a simple AI enemy that can see the player and chase t
 
 ---
 
-## What can you do next?
-
-- Add **Behavior Trees** for more complex AI logic  
-- Add animations linked to AI states  
-- Implement other senses like hearing  
-- Improve AI navigation to avoid obstacles better  
-- Add attack and health systems
-
----
-
 ## Useful links
 
 - [C++ for Blueprinters - Epic Games tutorial](https://dev.epicgames.com/community/learning/tutorials/qO/c-for-blueprinters)  
-- [Unreal Engine NavMesh Documentation](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Navigation/)  
-- [Git Large File Storage (Git LFS)](https://git-lfs.github.com/)
+- [Unreal Engine NavMesh Documentation](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Navigation/)
 
 ---
 
